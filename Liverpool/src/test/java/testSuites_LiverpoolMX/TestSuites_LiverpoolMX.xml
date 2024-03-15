@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="SuiteOneLiverpool" parallel="tests" thread-count="1">
+	 
+	<test name="TC000_Search_for_articles">
+		<classes>
+			<class name="tcs_LiverpoolMX.TC000_Search_for_articles"/>
+		</classes>
+	</test>
+	
+	<test name="TC010_Buying_a_Smart_TV">
+		<classes>
+			<class name="tcs_LiverpoolMX.TC010_Buying_a_Smart_TV"/>
+		</classes>
+	</test>
+	
+	<test name="TC020_Reset_consumer_accnt_pass">
+		<classes>
+			<class name="tcs_LiverpoolMX.TC020_Reset_consumer_accnt_pass"/>
+		</classes>
+	</test>
+	
+</suite>

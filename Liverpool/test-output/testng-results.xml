@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-15T00:06:28Z" name="SuiteOneLiverpool" finished-at="2024-03-15T00:07:43Z" duration-ms="75443">
+    <groups>
+    </groups>
+    <test started-at="2024-03-15T00:06:28Z" name="TC000_Search_for_articles" finished-at="2024-03-15T00:07:15Z" duration-ms="47362">
+      <class name="tcs_LiverpoolMX.TC000_Search_for_articles">
+        <test-method is-config="true" signature="startWebDriver()[pri:0, instance:tcs_LiverpoolMX.TC000_Search_for_articles@5bcb04cb]" started-at="2024-03-14T18:06:28Z" name="startWebDriver" finished-at="2024-03-14T18:06:32Z" duration-ms="3988" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startWebDriver -->
+        <test-method signature="TC000()[pri:0, instance:tcs_LiverpoolMX.TC000_Search_for_articles@5bcb04cb]" started-at="2024-03-14T18:06:32Z" name="TC000" finished-at="2024-03-14T18:07:14Z" duration-ms="42090" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC000 -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:tcs_LiverpoolMX.TC000_Search_for_articles@5bcb04cb]" started-at="2024-03-14T18:07:14Z" name="closeDriver" finished-at="2024-03-14T18:07:15Z" duration-ms="1272" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- tcs_LiverpoolMX.TC000_Search_for_articles -->
+    </test> <!-- TC000_Search_for_articles -->
+    <test started-at="2024-03-15T00:07:15Z" name="TC010_Buying_a_Smart_TV" finished-at="2024-03-15T00:07:35Z" duration-ms="20061">
+      <class name="tcs_LiverpoolMX.TC010_Buying_a_Smart_TV">
+        <test-method is-config="true" signature="startWebDriver()[pri:0, instance:tcs_LiverpoolMX.TC010_Buying_a_Smart_TV@5acc9fdf]" started-at="2024-03-14T18:07:15Z" name="startWebDriver" finished-at="2024-03-14T18:07:18Z" duration-ms="3323" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startWebDriver -->
+        <test-method signature="TC010()[pri:0, instance:tcs_LiverpoolMX.TC010_Buying_a_Smart_TV@5acc9fdf]" started-at="2024-03-14T18:07:18Z" name="TC010" finished-at="2024-03-14T18:07:34Z" duration-ms="15489" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC010 -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:tcs_LiverpoolMX.TC010_Buying_a_Smart_TV@5acc9fdf]" started-at="2024-03-14T18:07:34Z" name="closeDriver" finished-at="2024-03-14T18:07:35Z" duration-ms="1245" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- tcs_LiverpoolMX.TC010_Buying_a_Smart_TV -->
+    </test> <!-- TC010_Buying_a_Smart_TV -->
+    <test started-at="2024-03-15T00:07:35Z" name="TC020_Reset_consumer_accnt_pass" finished-at="2024-03-15T00:07:43Z" duration-ms="7833">
+      <class name="tcs_LiverpoolMX.TC020_Reset_consumer_accnt_pass">
+        <test-method is-config="true" signature="startWebDriver()[pri:0, instance:tcs_LiverpoolMX.TC020_Reset_consumer_accnt_pass@2eb917d0]" started-at="2024-03-14T18:07:35Z" name="startWebDriver" finished-at="2024-03-14T18:07:37Z" duration-ms="1690" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startWebDriver -->
+        <test-method signature="TC020()[pri:0, instance:tcs_LiverpoolMX.TC020_Reset_consumer_accnt_pass@2eb917d0]" started-at="2024-03-14T18:07:37Z" name="TC020" finished-at="2024-03-14T18:07:42Z" duration-ms="4927" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC020 -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:tcs_LiverpoolMX.TC020_Reset_consumer_accnt_pass@2eb917d0]" started-at="2024-03-14T18:07:42Z" name="closeDriver" finished-at="2024-03-14T18:07:43Z" duration-ms="1212" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- tcs_LiverpoolMX.TC020_Reset_consumer_accnt_pass -->
+    </test> <!-- TC020_Reset_consumer_accnt_pass -->
+  </suite> <!-- SuiteOneLiverpool -->
+</testng-results>
